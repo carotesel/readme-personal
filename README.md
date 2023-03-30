@@ -2,15 +2,9 @@
 <h3 align="center">Estudio Ingenieria en informática y me apasiona el mundo IT</h3>
 <br>
 
-- 🔭 Trabajo como **Desarrollador Full Stack Typescript y Profesor de Programación en ORT Argentina**
+- 👨🏻‍💻 Soy egresada de la orientación informática de ORT Argentina
 
-- 🌱 Me capacito constantemente en **MERN Stack, NestJS y Desarrollo de Smart Contracts con Solidity**
-
-- 👨🏻‍💻 Soy Licenciado en Sistemas recibido en **Universidad de Palermo**
-
-- 📫 Mi casilla de correo: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
-
-- 📄 Conoce un poco más sobre mí: <a href="https://binker.com.ar" target="_blank">Sitio Personal</a>
+- 📫 Mi mail de contacto es: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
 
 <!-- 
 <h2 align="left">Contacto</h3>
