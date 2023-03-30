@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Carolina</h1>
+<h1 align="start">Hola 👋, soy Carolina</h1>
 <h3 align="center">Estudio Ingenieria en informática y me apasiona el mundo IT</h3>
 <br>
 
