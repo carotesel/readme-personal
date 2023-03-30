@@ -1,10 +1,12 @@
-<h1 align="start">Hola 👋, soy Carolina</h1>
-<h3 align="center">Estudio Ingenieria en informática y me apasiona el mundo IT</h3>
+<h1 align="start">Hola!👋, soy Carolina</h1>
+<h3 align="start">Estudio Ingenieria en informática y me apasiona el mundo IT</h3>
 <br>
 
-- 👨🏻‍💻 Soy egresada de la orientación informática de ORT Argentina
+- :woman_technologist: Soy egresada de la orientación informática de ORT Argentina
 
-- 📫 Mi mail de contacto es: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
+- :heart_decoration: Me apasiona el desarrollo web y constantemente profundizo mis conocimientos del mismo
+
+- 📫 Mi mail de contacto es: **[caroteselmann@gmail.com](mailto:caroteselmann@gmail.com)**
 
 <!-- 
 <h2 align="left">Contacto</h3>
